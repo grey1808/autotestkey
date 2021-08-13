@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a99c80a7-ce5c-4a3b-9890-9a4a25311319" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="58" lean-forward="true" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+              <folding>
+                <element signature="n#ChekStatusKey#0;n#autoStart#0;n#!!top" expanded="false" />
+                <element signature="n#ChekStatusKeyShared#0;n#autoStart#0;n#!!top" expanded="false" />
+                <element signature="e#7654#7816#0#PHP" expanded="false" />
+                <element signature="e#7848#7899#0#PHP" expanded="false" />
+                <element signature="e#7909#7982#0#PHP" expanded="false" />
+                <element signature="e#8097#8296#0#PHP" expanded="false" />
+                <element signature="n#actionComandRestart#0;n#autoStart#0;n#!!top" expanded="false" />
+                <element signature="n#actionRestartClient#0;n#autoStart#0;n#!!top" expanded="false" />
+                <marker date="1572263882575" expanded="true" signature="3965:3987" ph="SELECT * FRO... iplist" />
+                <marker date="1572263882575" expanded="true" signature="3965:4011" ph="SELECT * FRO... iplist" />
+                <marker date="1572263882575" expanded="true" signature="3965:4026" ph="SELECT * FRO... iplist" />
+                <marker date="1572263882575" expanded="true" signature="4374:4476" ph="INSERT INTO event... " />
+                <marker date="1572263882575" expanded="true" signature="9414:9443" ph="SELECT * FRO... iplist" />
+                <marker date="1572263882575" expanded="true" signature="9414:9452" ph="SELECT * FRO... iplist" />
+                <marker date="1572263882575" expanded="true" signature="9414:9453" ph="SELECT * FRO... iplist" />
+                <marker date="1572263882575" expanded="true" signature="9574:9606" ph="SELECT * FRO... server" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SSH2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpseclib1.0.18/Net/SSH2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33133">
+              <caret line="2013" column="54" lean-forward="false" selection-start-line="2013" selection-start-column="54" selection-end-line="2013" selection-end-column="54" />
+              <folding>
+                <element signature="e#8#2228#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>throw new Exception()</find>
+      <find>Net_SSH2</find>
+      <find>new Net_SSH2</find>
+      <find>new Net_SSH2()</find>
+      <find>INSERT</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text.txt" />
+        <option value="$PROJECT_DIR$/phpseclib1.0.18/Net/SSH2.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../modules/php/PHP-5.6" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestkey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestkey" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestkey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestkey" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpseclib1.0.18" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestkey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotestkey" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpseclib1.0.18" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Net" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="Constants" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\autotestkey" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a99c80a7-ce5c-4a3b-9890-9a4a25311319" name="Default" comment="" />
+      <created>1569564969969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569564969969</updated>
+      <workItem from="1569564971524" duration="38860000" />
+      <workItem from="1571302075104" duration="729000" />
+      <workItem from="1572257736736" duration="2753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42342000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29149234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#ChekStatusKey#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="n#ChekStatusKeyShared#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="e#7654#7816#0#PHP" expanded="false" />
+            <element signature="e#7848#7899#0#PHP" expanded="false" />
+            <element signature="e#7909#7982#0#PHP" expanded="false" />
+            <element signature="e#8097#8296#0#PHP" expanded="false" />
+            <element signature="n#actionComandRestart#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="n#actionRestartClient#0;n#autoStart#0;n#!!top" expanded="false" />
+            <marker date="1572263882575" expanded="true" signature="3965:3987" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="3965:4011" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="3965:4026" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="4374:4476" ph="INSERT INTO event... " />
+            <marker date="1572263882575" expanded="true" signature="9414:9443" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9414:9452" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9414:9453" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9574:9606" ph="SELECT * FRO... server" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpseclib1.0.18/Net/SSH2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34221">
+          <caret line="2013" column="54" lean-forward="false" selection-start-line="2013" selection-start-column="54" selection-end-line="2013" selection-end-column="54" />
+          <folding>
+            <element signature="e#8#2228#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#ChekStatusKey#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="n#ChekStatusKeyShared#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="e#7654#7816#0#PHP" expanded="false" />
+            <element signature="e#7848#7899#0#PHP" expanded="false" />
+            <element signature="e#7909#7982#0#PHP" expanded="false" />
+            <element signature="e#8097#8296#0#PHP" expanded="false" />
+            <element signature="n#actionComandRestart#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="n#actionRestartClient#0;n#autoStart#0;n#!!top" expanded="false" />
+            <marker date="1572263882575" expanded="true" signature="3965:3987" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="3965:4011" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="3965:4026" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="4374:4476" ph="INSERT INTO event... " />
+            <marker date="1572263882575" expanded="true" signature="9414:9443" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9414:9452" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9414:9453" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9574:9606" ph="SELECT * FRO... server" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpseclib1.0.18/Net/SSH2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34221">
+          <caret line="2013" column="54" lean-forward="false" selection-start-line="2013" selection-start-column="54" selection-end-line="2013" selection-end-column="54" />
+          <folding>
+            <element signature="e#8#2228#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpseclib1.0.18/Net/SFTP/Stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="491" column="20" lean-forward="false" selection-start-line="491" selection-start-column="20" selection-end-line="491" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpseclib1.0.18/Net/SSH2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33133">
+          <caret line="2013" column="54" lean-forward="false" selection-start-line="2013" selection-start-column="54" selection-end-line="2013" selection-end-column="54" />
+          <folding>
+            <element signature="e#8#2228#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="58" lean-forward="true" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <element signature="n#ChekStatusKey#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="n#ChekStatusKeyShared#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="e#7654#7816#0#PHP" expanded="false" />
+            <element signature="e#7848#7899#0#PHP" expanded="false" />
+            <element signature="e#7909#7982#0#PHP" expanded="false" />
+            <element signature="e#8097#8296#0#PHP" expanded="false" />
+            <element signature="n#actionComandRestart#0;n#autoStart#0;n#!!top" expanded="false" />
+            <element signature="n#actionRestartClient#0;n#autoStart#0;n#!!top" expanded="false" />
+            <marker date="1572263882575" expanded="true" signature="3965:3987" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="3965:4011" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="3965:4026" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="4374:4476" ph="INSERT INTO event... " />
+            <marker date="1572263882575" expanded="true" signature="9414:9443" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9414:9452" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9414:9453" ph="SELECT * FRO... iplist" />
+            <marker date="1572263882575" expanded="true" signature="9574:9606" ph="SELECT * FRO... server" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
